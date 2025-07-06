@@ -3,12 +3,14 @@
 🔧 IT Ticket Management Reimagined with Power BI
 Designed this interactive dashboard to track, analyze, and optimize IT support operations. It enables decision-makers to drill into:
 
-🚦 Severity-based ticket trends
+100K+ Total Tickets analyzed across 15 departments
 
-🏢 City & group performance metrics
+6.84 Days Average Resolution Time
 
-🏷️ Departmental ticket volumes
+Severity-wise ticket distribution for performance prioritization
 
-⏱️ Average resolution time: 6.84 days
+City-wise and department-wise workload comparison
 
-Whether you're scaling IT support or improving service levels, data-backed insights make all the difference.
+Fully interactive filters for Severity, Priority, Type, and Satisfaction
+
+📌 Built using Power BI, this dashboard enhances visibility into operational bottlenecks and improves decision-making for IT service management.
